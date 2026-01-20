@@ -44,7 +44,7 @@ test.only('Radio button actions', async ({page}) => {
 })
 
 // Checkbox Handling
-test.only('Checkbox actions', async ({page}) => {
+test('Checkbox actions', async ({page}) => {
 
     await page.goto('https://testautomationpractice.blogspot.com/')
 
