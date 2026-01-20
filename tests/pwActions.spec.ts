@@ -27,7 +27,7 @@ test('Text input actions', async ({page}) => {
 })
 
 // Radio Button Handling
-test.only('Radio button actions', async ({page}) => {
+test('Radio button actions', async ({page}) => {
 
     await page.goto('https://testautomationpractice.blogspot.com/')
 
