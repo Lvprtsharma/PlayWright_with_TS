@@ -29,7 +29,5 @@ test("Autosuggest dropdown", async ({page}) => {
         }
     }
 
-
-
 })
 
